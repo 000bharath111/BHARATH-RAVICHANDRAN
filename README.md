@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Bharath+Ravichandran;Cyber+Security+Student+%7C+Developer+%7C+Ethical+Hacker;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3" alt="Cyber Security Banner" style="max-width:100%;border-radius:14px;box-shadow:0 14px 32px rgba(0,0,0,0.55)"/>
-</p>
+<!-- Hero Banner with GIF -->
+
+  <img src="./developer.gif" alt="Developer Animation" width="400" style="border-radius:12px;box-shadow:0 12px 28px rgba(0,0,0,0.55)" />
+
+
 
 ---
 
